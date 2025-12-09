@@ -89,7 +89,7 @@ $(function() {
 	/* ========================================================================= */
     $(function(){
         function upDateTimer(){
-            let eventDate = new Date("04/10/2021 18:00:00").getTime();
+            let eventDate = new Date("04/20/2026 12:00:00").getTime();
             let d = new Date();
             let currentDate = d.getTime();
             let timeLeft = eventDate-currentDate;
